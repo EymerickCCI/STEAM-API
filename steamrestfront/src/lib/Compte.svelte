@@ -51,7 +51,7 @@
 
 <section class="compte">
     {#if dejaConnecte}
-        <h1>Vous êtes connecté·e comme {dejaConnecte.utilisateur.nomUtilisateur}</h1>
+        <h1>Vous êtes connecté(e) comme {dejaConnecte.utilisateur.nomUtilisateur}</h1>
         <p>Votre session est active dans cet onglet.</p>
         <a href="/">Retourner au magasin</a>
     {:else}

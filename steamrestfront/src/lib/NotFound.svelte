@@ -3,10 +3,8 @@
 </script>
 
 <span>Page non trouvée</span>
-<span>La page que vous recherchez n'existe pas.</span>
-<span>Veuillez vérifier l'URL ou retourner à la page d'accueil.</span>
-
-
+<span>La page existe pas.</span>
+<span>vérifiez l'URL ou retourner à la page d'accueil.</span>
 
 <style>
   span {
